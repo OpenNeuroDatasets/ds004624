@@ -19,5 +19,6 @@
     ],
     "EthicsApprovals": [
         "IACUC A00001713"
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004624.v1.0.0"
 }
