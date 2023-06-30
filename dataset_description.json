@@ -3,18 +3,18 @@
     "BIDSVersion": "Brain Imaging Data Structure Specification v1.8.0",
     "License": "CC0",
     "Authors": [
-        "Mivalt, Filip",
-        "van den Boom, Max",
-        "Brunner, Peter",
-        "Jiwon, Kim",
-        "Duque-Lopez, Andrea",
-        "Krakorova, Martina",
-        "Kim, Inyong",
-        "Chang, Su-youne",
-        "Hermes, Dora",
-        "Kremen, Vaclav",
-        "Worrell, Gregory A.",
-        "Miller, Kai J."
+        "Mivalt F.",
+        "van den Boom M.",
+        "Brunner P.",
+        "Kim J.",
+        "Duque-Lopez A.",
+        "Krakorova M.",
+        "Kim I.",
+        "Chang S.",
+        "Hermes D.",
+        "Kremen V.",
+        "Worrell G. A.",
+        "Miller K. J."
     ],
     "Funding": [
         "NIH U01NS128612"
